@@ -1,27 +1,27 @@
-# 👋 Hej, z tej strony Jakub!
+# 👋 Hey, Jakub here!
 
-🎯 Jestem fascynatem analizy oraz wizualizacji danych. Przyjemne z pożytecznym chciałbym łączyć poprzez eksplorację rzeczywistych danych z wykorzystaniem nowoczesnych narzędzi - stosowanie uczenia maszynowego, a także wykorzystanie sztucznej inteligencji generatywnej.
+🎯 I am passionate about analysis and data visualization. I would like to combine the pleasant with the useful by exploring real data with the use of modern tools - the application of machine learning, as well as the use of generative AI.
 
-🎓 Ukończyłem studia licencjackie w Szkole Głównej Handlowej w Warszawie na kierunku Metod Ilościwoych w Ekonomii i Systemów Informacyjnych, dzięki którym nabyłem umiejętności z zakresu statystyki oraz modelowania ekonometrycznego, przydatne w rozwiązywaniu rzeczywistych problemów.
+🎓 I hold a Bachelor's degree from the SGH Warsaw School of Economics in *Quantitative Methods in Economics and Information Systems*, which allowed me to acquire skills in statistics and econometric modeling, useful in solving real-world problems.
 
-🌍 Lokalizacja: Warszawa, Polska  
-💼 Obecnie: poszukuję pracy  
-📫 Kontakt: jd121311@student.sgh.waw.pl | [[LinkedIn]](https://www.linkedin.com/in/jakub-danelski-8519aa250/) 
-
----
-
-## 🔧 Gdzie i jak pracuję?
-
-- 💻 Języki programowania: `Python`, `R`, `SQL`, `VBA`
-- 🛠️ Narzędzia: `Jupyter Notebook`, `RStudio`, `Oracle SQL Developer`, `Excel`
-- 📈 Metody: `modele ekonometryczne`, `symulacje`, `nauczanie maszynowe`
+🌍 Location: Warsaw, Poland  
+💼 Currently: seeking job opportunities  
+📫 Contact: jd121311@student.sgh.waw.pl | [LinkedIn](https://www.linkedin.com/in/jakub-danelski-8519aa250/)  
 
 ---
 
-## 🚀 Moje najciekawsze projekty
+## 🔧 Tools & Technologies I Use
 
-| Projekt | Opis | Języki programowania |
-|--------|------|-------------|
-| [📦 Epidemia choroby](link_wkrótce) | Symulacja Monte Carlo przebiegu epidemii z uwzględnieniem ruchu naturalnego, reinfekcji i strategii szczepień. | Python |
-| [📈 Model migracji wewnętrznych](link_wkrótce) | Estymacja migracji międzywojewódzkich za pomocą grawitacyjnego modelu migracji z wykorzystaniem danych z GUS oraz Geoportalu | R, Python |
-| [💡 Symulacja firmy T-shirtowej](link_wkrótce) | Model finansowy firmy produkującej koszulki – z losowymi popytami, produkcją, kredytami i analizą wrażliwości. | Python |
+- 💻 Programming languages: `Python`, `R`, `SQL`, `VBA`
+- 🛠️ Tools: `Jupyter Notebook`, `RStudio`, `Oracle SQL Developer`, `Excel`
+- 📈 Methods: `econometric modeling`, `simulation`, `machine learning`
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Programming languages |
+|--------|-------------|-----------|
+| [📦 Epidemic Simulation](link_coming_soon) | Monte Carlo simulation of a disease outbreak, including natural population dynamics, reinfections, and vaccination strategies. | Python |
+| [📈 Internal Migration Model](link_coming_soon) | Estimation of interprovincial migration in Poland with a gravity migration model using data from CSO and Geoportal services | R, Python |
+| [💡 T-Shirt Company Simulation](link_coming_soon) | Financial simulation of a T-shirt company with stochastic demand, production planning, credit modeling, and sensitivity analysis. | Python |
