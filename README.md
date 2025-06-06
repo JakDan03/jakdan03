@@ -23,5 +23,5 @@
 | Project | Description | Programming languages |
 |--------|-------------|-----------|
 | [📦 Epidemic Simulation](link_coming_soon) | Monte Carlo simulation of a disease outbreak, including natural population dynamics, reinfections, and vaccination strategies. | Python |
-| [📈 Internal Migration Model](link_coming_soon) | Estimation of interprovincial migration in Poland with a gravity migration model using data from CSO and Geoportal services | R, Python |
-| [💡 T-Shirt Company Simulation](link_coming_soon) | Financial simulation of a T-shirt company with stochastic demand, production planning, credit modeling, and sensitivity analysis. | Python |
+| [📈 Internal Migration Model](https://github.com/JakDan03/interial-migration-model) | Estimation of interprovincial migration in Poland with a gravity migration model using data from CSO and Geoportal services | R |
+| [♟️ Chess 1D Reinforcement](https://github.com/JakDan03/Chess1D-reinforcement) | 1D chess playing algorithm built with the use of reinforcement learning | Python |
