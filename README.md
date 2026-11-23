@@ -5,7 +5,7 @@
 🎓 I hold a Bachelor's degree from the SGH Warsaw School of Economics in *Quantitative Methods in Economics and Information Systems*, which allowed me to acquire skills in statistics and econometric modeling, useful in solving real-world problems.
 
 🌍 Location: Warsaw, Poland  
-💼 Currently: seeking job opportunities  
+💼 Currently: Junior Data Scientist at BitPeak 
 📫 Contact: jd121311@student.sgh.waw.pl | [LinkedIn](https://www.linkedin.com/in/jakub-danelski-8519aa250/)  
 
 ---
@@ -13,8 +13,8 @@
 ## 🔧 Tools & Technologies I Use
 
 - 💻 Programming languages: `Python`, `R`, `SQL`, `VBA`
-- 🛠️ Tools: `Jupyter Notebook`, `RStudio`, `Oracle SQL Developer`, `Excel`
-- 📈 Methods: `econometric modeling`, `simulation`, `machine learning`
+- 🛠️ Tools: `VSCode`, `Jupyter Notebook`, `RStudio`, `Oracle SQL Developer`, `Excel`
+- 📈 Methods: `econometric modeling`, `simulation`, `machine learning`, `ai engineering`
 
 ---
 
